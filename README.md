@@ -1,1 +1,1 @@
-404 Not Found
+501 Not Implemented
